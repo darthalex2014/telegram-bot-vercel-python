@@ -1,3 +1,4 @@
+from .bot import bot
 import asyncio
 import json
 from django.http import HttpResponse
